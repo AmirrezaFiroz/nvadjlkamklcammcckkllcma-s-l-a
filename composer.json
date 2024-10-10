@@ -21,6 +21,7 @@
         "rubika-library",
         "rubika library"
     ],
+    "abandoned": "rubialib/rubikalib",
     "license": "GPL-3.0",
     "minimum-stability": "stable",
     "authors": [
